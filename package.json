@@ -1,0 +1,22 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Playwright is a powerful and modern open-source framework for automating web browsers, developed by Microsoft. It supports multiple browsers (Chromium, Firefox, and WebKit) and provides a unified API to write reliable and efficient automation tests.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VamsiNayunipati/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VamsiNayunipati/playwright/issues"
+  },
+  "homepage": "https://github.com/VamsiNayunipati/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
